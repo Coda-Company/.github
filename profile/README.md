@@ -4,11 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Coda_Logo_Wordmark.png" alt="Coda Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://coda-company.github.io/.github/">
-    <img src="https://img.shields.io/badge/🚀_Get_Coda-blue?style=for-the-badge&logo=github" alt="Get Coda"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://l24733640.github.io/.github/Coda-Company)
 
 ---
 
